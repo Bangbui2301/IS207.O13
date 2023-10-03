@@ -7,11 +7,8 @@
   font-size: 16px;
   font-weight: 500;
   color: white;
-
 }
 
-.btn-warning {
-  background-color: red;
-  color: white;
-
+.btn-primary {
+  background-color: aqua;
 }
