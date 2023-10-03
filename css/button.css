@@ -9,4 +9,7 @@
   color: white;
 }
 
-.btn-sucess {}
+.btn-warning {
+  background-color: red;
+  color: white;
+}
