@@ -15,11 +15,8 @@
 }
 
 .btn-danger {
-  border-color: red;
-  border-style: solid;
-  border-width: 1px;
-  background-color: white;
-  color: red;
+  background-color: red;
+  color: white;
   -webkit-transition: background-color 0.5s ease-out;
   -moz-transition: background-color 0.5s ease-out;
   -o-transition: background-color 0.5s ease-out;
@@ -28,8 +25,7 @@
 }
 
 :hover.btn-danger {
-  background-color: red;
-  color: white;
+  background-color: rgb(204, 0, 0);;
 }
 
 
@@ -39,10 +35,4 @@
 
 .btn-success:hover {
   background-color: #218838;
-}
-
-:active.btn-danger {
-  outline-color: rgb(254, 105, 105);
-  outline-style: solid;
-  outline-width: 4px;
 }
