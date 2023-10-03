@@ -9,11 +9,11 @@
   color: white;
 }
 
-
 .btn-primary {
   background-color: aqua;
   border: 5px;
 }
+
 .btn-danger {
   border-color: red;
   border-style: solid;
@@ -39,6 +39,7 @@
 
 .btn-success:hover {
   background-color: #218838;
+}
 
 :active.btn-danger {
   outline-color: rgb(254, 105, 105);
