@@ -8,3 +8,11 @@
   font-weight: 500;
   color: white;
 }
+
+.btn-info {
+  background-color: lightblue;
+}
+
+.btn-danger {
+  background-color: orange;
+}
