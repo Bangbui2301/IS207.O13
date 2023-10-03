@@ -9,6 +9,22 @@
   color: white;
 }
 
+.btn-info {
+  background-color: #17A2B8;
+}
+
+.btn-warning {
+  background-color: orange;
+}
+
+.btn-info:hover {
+  background-color: #0F6D7A; 
+}
+
+.btn-warning:hover {
+  background-color: rgb(204, 138, 51); 
+}
+
 .btn-primary {
   background-color: aqua;
   border: 5px;
