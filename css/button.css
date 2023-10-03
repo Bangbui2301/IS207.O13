@@ -9,6 +9,11 @@
   color: white;
 }
 
+
+.btn-primary {
+  background-color: aqua;
+  border: 5px;
+}
 .btn-danger {
   border-color: red;
   border-style: solid;
@@ -19,6 +24,7 @@
   -moz-transition: background-color 0.5s ease-out;
   -o-transition: background-color 0.5s ease-out;
   transition: background-color 0.5s ease-out;
+
 }
 
 :hover.btn-danger {
