@@ -10,7 +10,7 @@
 
 }
 
-.btn-warning {
+.btn-danger {
   border-color: red;
   border-style: solid;
   border-width: 1px;
@@ -22,12 +22,12 @@
   transition: background-color 0.5s ease-out;
 }
 
- :hover.btn-warning {
+ :hover.btn-danger {
   background-color:red;
   color: white;
  }
  
- :active.btn-warning {
+ :active.btn-danger {
   outline-color: rgb(254, 105, 105);
   outline-style: solid;
   outline-width: 4px;
