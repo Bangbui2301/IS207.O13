@@ -39,6 +39,7 @@
 
 .btn-success:hover {
   background-color: #218838;
+}
 
 :active.btn-danger {
   outline-color: rgb(254, 105, 105);
