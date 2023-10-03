@@ -28,7 +28,7 @@
  }
  
  :active.btn-warning {
-  outline-color: rgb(247, 112, 112);
+  outline-color: rgb(254, 105, 105);
   outline-style: solid;
   outline-width: 4px;
  }
